@@ -1,49 +1,45 @@
-# HTML_desde_cero
-Para Mi Canal de YT
-
 HTML_desde_cero/
-│
 ├── Primeros pasos/
 │   ├── Hola Mundo/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Partes/
-|        ├──index.html
+│       └── index.html
 │
 ├── Textos/
 │   ├── Texto/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Encabezados/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Listas/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Formatos/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Citas/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Tiempo/
-|        ├──index.html
+│   │   └── index.html
 │   ├── Reto - Textos/
-|        ├──index.html
+│       └── index.html
 │
 └── Navegacion/
-│   ├── Vinculos/
-|        ├──blog.html
-|        ├──index.html
-│   ├── Rutas/
-│        ├── about/
-|             ├──index.html
-|        ├──about.html
-|        ├──index.html
-│   ├── Navegar/
-│        ├── about/
-|             ├──index.html
-│        ├── citas/
-|             ├──index.html
-|        ├──index.html
-│   ├── Barras/
-|        ├──index.html
-│   ├── Reto - Navegacion/
-|        ├──index.html
-|        ├──Libro1.html
-|        ├──Libro2.html
-|        ├──Libro3.html
+    ├── Vinculos/
+    │   ├── blog.html
+    │   └── index.html
+    ├── Rutas/
+    │   ├── about/
+    │   │   └── index.html
+    │   ├── about.html
+    │   └── index.html
+    ├── Navegar/
+    │   ├── about/
+    │   │   └── index.html
+    │   ├── citas/
+    │   │   └── index.html
+    │   └── index.html
+    ├── Barras/
+    │   └── index.html
+    ├── Reto - Navegacion/
+        ├── index.html
+        ├── Libro1.html
+        ├── Libro2.html
+        └── Libro3.html
